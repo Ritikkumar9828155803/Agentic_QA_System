@@ -27,7 +27,7 @@ This project demonstrates real-world **GenAI system design** beyond basic chatbo
 ---
 
 ## 🏗 System Architecture
-
+```bash
 User Query
 ↓
 Planner (Decides Tools)
@@ -40,12 +40,12 @@ Tool Executor
 Memory Retrieval (Vector Store)
 ↓
 Final Response
-
+```
 
 ---
 
 ## 📂 Project Structure
-
+```bash
 Agentic-QA-System/
 │
 ├── app.py
@@ -70,7 +70,7 @@ Agentic-QA-System/
 │ └── streamlit_app.py
 │
 └── .gitignore
-
+```
 ---
 ## demo
 ![demo](demo/demo.gif)
