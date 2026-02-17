@@ -27,7 +27,7 @@ This project demonstrates real-world **GenAI system design** beyond basic chatbo
 ---
 
 ## 🏗 System Architecture
-```bash
+
 User Query
 ↓
 Planner (Decides Tools)
@@ -39,38 +39,8 @@ Tool Executor
 ↓
 Memory Retrieval (Vector Store)
 ↓
-Final Response
-```
+Final Respons
 
----
-
-## 📂 Project Structure
-```bash
-Agentic-QA-System/
-│
-├── app.py
-├── rag_tool.py
-├── vector_store.py
-├── requirements.txt
-├── README.md
-│
-├── tools/
-│ ├── rag_tool.py
-│ ├── sql_tool.py
-│ └── calculator_tool.py
-│
-├── memory/
-│ └── memory.py
-│
-├── agent/
-│ ├── planner.py
-│ └── executor.py
-│
-├── ui/
-│ └── streamlit_app.py
-│
-└── .gitignore
-```
 ---
 ## demo
 ![demo](demo/demo.gif)
