@@ -46,8 +46,25 @@ Tool Executor
    v
 Final LLM Response
 ```
+---
 
 
+🛠 Tech Stack
+```
+Python 3.10+
+
+FastAPI
+
+Streamlit
+
+FAISS
+
+SentenceTransformers
+
+SQLite
+
+NumPy
+```
 
 ---
 ## demo
