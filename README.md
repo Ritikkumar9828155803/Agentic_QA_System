@@ -28,7 +28,7 @@ This project demonstrates real-world **GenAI system design** beyond basic chatbo
 
 
 ## 🏗️ System Architecture
-
+```
 User Query
    │
    ▼
@@ -44,6 +44,8 @@ Tool Executor
    │
    ▼
 Final LLM Response 
+```
+
 
 ---
 ## demo
