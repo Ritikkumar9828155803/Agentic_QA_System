@@ -41,8 +41,6 @@ Memory Retrieval (Vector Store)
 ↓
 Final Response
 
----
-
 
 ---
 
@@ -76,9 +74,6 @@ Agentic-QA-System/
 
 ---
 
-
-
----
 
 ## ⚙️ Installation
 
