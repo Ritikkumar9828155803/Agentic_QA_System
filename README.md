@@ -71,9 +71,9 @@ Agentic-QA-System/
 │
 └── .gitignore
 
-
 ---
-
+## demo
+![demo]( demo/demo.gif)
 
 ## ⚙️ Installation
 
