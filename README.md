@@ -27,24 +27,26 @@ This project demonstrates real-world **GenAI system design** beyond basic chatbo
 ---
 
 
-## 🏗️ System Architecture
+## 🏗 System Architecture
+
 ```
 User Query
-   │
-   ▼
+   |
+   v
 Planner (Decides Tools)
-   │
-   ▼
+   |
+   v
 Tool Executor
-   │
-   ├── RAG (Vector DB Retrieval)
-   ├── SQL Tool (Database Queries)
-   ├── Calculator Tool (Math Operations)
-   └── Memory Retrieval (Vector DB)
-   │
-   ▼
-Final LLM Response 
+   |
+   |-- RAG (Vector DB Retrieval)
+   |-- SQL Tool (Database Queries)
+   |-- Calculator Tool (Math Operations)
+   |-- Memory Retrieval (Vector DB)
+   |
+   v
+Final LLM Response
 ```
+
 
 
 ---
