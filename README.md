@@ -68,7 +68,8 @@ NumPy
 
 ---
 ## demo
-![demo](demo/demo.gif)
+ ![demo](demo/demo.gif)
+
 
 ## ⚙️ Installation
 
