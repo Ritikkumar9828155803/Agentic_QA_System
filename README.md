@@ -67,8 +67,8 @@ NumPy
 ```
 
 ---
-# demo 
-![demo](demo/agentic_qa_system_demo.gif)
+# Demo 
+![Demo](demo/agentic_qa_system_demo.gif)
 
 ---
 ## ⚙️ Installation
