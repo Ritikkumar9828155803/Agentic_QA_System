@@ -1,4 +1,4 @@
-# Agentic QA System with Memory
+# Agentic QA System with multiple reasoning tools ( RAG + SQL + Memory )
 
 An end-to-end **LLM-powered Agentic Question Answering System** that combines:
 
@@ -67,8 +67,7 @@ NumPy
 ```
 
 ---
-## demo
- ![demo](demo/demo.gif)
+
 
 
 ## ⚙️ Installation
