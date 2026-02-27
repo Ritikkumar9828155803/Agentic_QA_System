@@ -67,9 +67,10 @@ NumPy
 ```
 
 ---
+# demo 
+![demo](demo/agentic_qa_system_demo.gif)
 
-
-
+---
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
